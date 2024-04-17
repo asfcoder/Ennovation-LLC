@@ -339,51 +339,6 @@ section{
     padding-bottom: 1.5rem;
 }
 
-/*Saidon LLC Section*/
-.saidon {
-    padding: 0;
-    padding-top: 50px;
-}
-
-.saidon .title{
-    text-align: left;
-}
-
-.saidon h2 {
-    font-family: 'Hind Siliguri';
-}
-
-.saidon-left img{
-    width: 80%;
-    margin-top: 100px;
-    border-radius: 50px;
-}
-
-.saidon-right{
-    margin-top: 4rem;
-}
-
-.saidon-item{
-    margin: 1.4rem 0;
-    display: flex;
-}
-
-.saidon-item div h3{
-    margin-top: 0;
-    font-size: 1.4rem;
-    font-weight: 300;
-    opacity: 0.85;
-}
-
-.saidon-item span{
-    font-size: 1.1rem;
-    color: #fff;
-    background: var(--mount-meadow);
-    align-self: flex-start;
-    padding: 0.4rem 0.7rem;
-    border-radius: 2px;
-    margin-right: 1.4rem;
-}
 
 /* Contact Us Section*/
 .contact h2 {
@@ -486,10 +441,6 @@ section{
         background-image: linear-gradient(to right top, #051937, #004d7a50, #008793, #00bf72, #a8eb12);
         text-align: center;
     }
-
-    .saidon {
-        padding: 0;
-    }
   
     .contact-right div {
       padding-left: 0;
@@ -562,17 +513,6 @@ section{
     }
 
     .about-right {
-        margin-top: 0;
-    }
-
-    .saidon .row {
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        align-items: center;
-        column-gap: 2rem;
-    }   
-    
-    .saidon-right {
         margin-top: 0;
     }
 
