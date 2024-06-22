@@ -116,7 +116,7 @@ section{
     align-items: center;
 }
 .logo {
-    width: 30%;
+    width: 22%;
 }
 .navbar-brand{
     font-weight: 500;
@@ -525,7 +525,7 @@ section{
         margin-right: auto;
     }
     .service .row{
-        grid-template-columns: repeat(4, 1fr);
+        grid-template-columns: repeat(3, 1fr);
     }
 
     .brands .row{
